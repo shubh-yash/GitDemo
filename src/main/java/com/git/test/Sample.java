@@ -9,6 +9,8 @@ public class Sample {
         System.out.println("master::commit-3");
         System.out.println("master::commit-4");
         System.out.println("master::commit-5");
+
+        System.out.println("master::commit-6");
         
     }
 }
