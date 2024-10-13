@@ -21,5 +21,9 @@ public class Sample {
         System.out.println("feature1::commit-3");
         System.out.println("feature1::commit-4");
 
+        System.out.println("master::commit-5");
+
+            
+
     }
 }
