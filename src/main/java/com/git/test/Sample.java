@@ -24,5 +24,7 @@ public class Sample {
         System.out.println("master new commit-1");
         System.out.println("master new commit-2");
 
+        System.out.println("master new commit-3");
+
     }
 }
